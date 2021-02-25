@@ -12,7 +12,7 @@
 ### Geography
   https://thetruesize.com/
   
-### typing:
+### Typing:
   https://www.typing.com/
   https://monkeytype.com/
 
@@ -21,4 +21,5 @@
 
 ### Programming:
   https://www.freecodecamp.org/learn/
-  
+  https://hackr.io/
+  https://linuxjourney.com/
