@@ -12,6 +12,9 @@ Dutch:
 
 ### Geography
 - https://thetruesize.com/
+
+### Chemistry
+- https://molview.org/
   
 ### Typing:
 - https://www.typing.com/
@@ -24,3 +27,4 @@ Dutch:
 - https://www.freecodecamp.org/learn/
 - https://hackr.io/
 - https://linuxjourney.com/
+- https://www.w3schools.com/
