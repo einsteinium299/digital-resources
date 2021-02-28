@@ -28,3 +28,6 @@ Dutch:
 - https://hackr.io/
 - https://linuxjourney.com/
 - https://www.w3schools.com/
+
+### Bioinformatics
+- http://rosalind.info/
